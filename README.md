@@ -1,3 +1,7 @@
+### EOL
+
+This library is no longer actively maintained and is replaced by https://github.com/keycloak/keycloak-nodejs-admin-client.
+
 ### Keycloak Admin Client
 
 [![Greenkeeper badge](https://badges.greenkeeper.io/bucharest-gold/keycloak-admin-client.svg)](https://greenkeeper.io/)
